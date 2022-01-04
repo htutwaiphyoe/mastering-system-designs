@@ -1,0 +1,21 @@
+/********** BODY FONT SIZES **********/
+$body-font-size: var(--dse-body-font-size, $fs-sm) !default;
+
+/********** BODY FONT WEIGHTS **********/
+$body-font-weight: var(--dse-body-font-weight, $fw-normal) !default;
+
+/*********** HEADING FONT SIZES ***********/
+$h1: var(--dse-h1, $h1) !default;
+$h2: var(--dse-h2, $h2) !default;
+$h3: var(--dse-h3, $h3) !default;
+$h4: var(--dse-h4, $h4) !default;
+$h5: var(--dse-h5, $h5) !default;
+$h6: var(--dse-h6, $h6) !default;
+
+/*********** HEADING FONT WEIGHTS ***********/
+$h1-font-weight: var(--dse-h1-font-weight, $fw-boldest) !default;
+$h2-font-weight: var(--dse-h2-font-weight, $fw-bolder) !default;
+$h3-font-weight: var(--dse-h3-font-weight, $fw-bold) !default;
+$h4-font-weight: var(--dse-h4-font-weight, $fw-semibold) !default;
+$h5-font-weight: var(--dse-h5-font-weight, $fw-medium) !default;
+$h6-font-weight: var(--dse-h6-font-weight, $fw-normal) !default;
