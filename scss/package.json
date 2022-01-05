@@ -1,0 +1,13 @@
+{
+    "name": "@ds.e/scss",
+    "version": "1.0.0",
+    "description": "Design System with ReactJS",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "normalize-scss": "^7.0.1"
+    },
+    "devDependencies": {
+        "stylelint": "^14.3.0"
+    }
+}
