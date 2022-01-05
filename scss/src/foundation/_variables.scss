@@ -55,6 +55,8 @@ $fw-boldest: 900;
 /*********** BREAKPOINTS ***********/
 
 $breakpoints: (
+    sm: 36rem,
+    // 576px
     md: 48rem,
     // 768px
     lg: 64rem,
