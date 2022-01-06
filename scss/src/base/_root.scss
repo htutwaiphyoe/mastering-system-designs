@@ -1,39 +1,39 @@
 :root {
-  /********** BODY FONT SIZES **********/
-  --dse-body-font-size: #{$fs-sm};
+    /********** BODY FONT SIZES **********/
+    --dse-body-font-size: #{$fs-sm};
 
-  /********** BODY FONT WEIGHTS **********/
-  --dse-body-font-weight: #{$fw-normal};
+    /********** BODY FONT WEIGHTS **********/
+    --dse-body-font-weight: #{$fw-normal};
 
-  /*********** HEADING FONT SIZES ***********/
-  --dse-h1: #{$h1};
-  --dse-h2: #{$h2};
-  --dse-h3: #{$h3};
-  --dse-h4: #{$h4};
-  --dse-h5: #{$h5};
-  --dse-h6: #{$h6};
+    /*********** HEADING FONT SIZES ***********/
+    --dse-h1: #{$h1};
+    --dse-h2: #{$h2};
+    --dse-h3: #{$h3};
+    --dse-h4: #{$h4};
+    --dse-h5: #{$h5};
+    --dse-h6: #{$h6};
 
-  /*********** HEADING FONT WEIGHTS ***********/
-  --dse-h1-font-weight: #{$fw-boldest};
-  --dse-h2-font-weight: #{$fw-bolder};
-  --dse-h3-font-weight: #{$fw-bold};
-  --dse-h4-font-weight: #{$fw-semibold};
-  --dse-h5-font-weight: #{$fw-medium};
-  --dse-h6-font-weight: #{$fw-normal};
+    /*********** HEADING FONT WEIGHTS ***********/
+    --dse-h1-font-weight: #{$fw-boldest};
+    --dse-h2-font-weight: #{$fw-bolder};
+    --dse-h3-font-weight: #{$fw-bold};
+    --dse-h4-font-weight: #{$fw-semibold};
+    --dse-h5-font-weight: #{$fw-medium};
+    --dse-h6-font-weight: #{$fw-normal};
 
-  /*********** GLOBAL TEXT COLORS ***********/
+    /*********** GLOBAL TEXT COLORS ***********/
 
-  --dse-body-text-color: #{$dark};
-  --dse-body-bg-color: #{$white};
+    --dse-body-text-color: #{$dark};
+    --dse-body-bg-color: #{$white};
 
-  /*********** BUTTONS ***********/
-  --dse-btn-primary-text-color: #{$white};
-  --dse-btn-primary-bg-color: #{$green};
-  --dse-btn-primary-bg-hover-color: #{$green-light};
+    /*********** BUTTONS ***********/
+    --dse-btn-primary-text-color: #{$white};
+    --dse-btn-primary-bg-color: #{$green};
+    --dse-btn-primary-bg-hover-color: #{$green-light};
 
-  /*********** INPUTS ***********/
-  --dse-input-color: #{$dark};
-  --dse-input-error-color: #{$red};
-  --dse-input-border-error-color: #{$red};
-  --dse-input-border-focus-color: #{$green};
+    /*********** INPUTS ***********/
+    --dse-input-color: #{$dark};
+    --dse-input-error-color: #{$red};
+    --dse-input-border-error-color: #{$red};
+    --dse-input-border-focus-color: #{$green};
 }
