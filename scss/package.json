@@ -8,6 +8,8 @@
         "normalize-scss": "^7.0.1"
     },
     "devDependencies": {
+        "husky": "^7.0.4",
+        "lint-staged": "^12.3.2",
         "prettier": "2.0.5",
         "stylelint": "13.6.1",
         "stylelint-config-prettier": "8.0.2",
@@ -17,5 +19,13 @@
     "scripts": {
         "lint": "stylelint \"src/**/*.scss\"",
         "lint:fix": "yarn lint --fix"
+    },
+    "husky": {
+        "hooks": {
+            "pre-commit": "lint-staged"
+        }
+    },
+    "lint-staged": {
+        "*.scss": "yarn lint:fix"
     }
 }
