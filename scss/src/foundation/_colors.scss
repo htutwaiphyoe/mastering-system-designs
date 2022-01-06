@@ -6,7 +6,10 @@ $body-bg-color: var(--dse-body-bg-color, $white) !default;
 /*********** BUTTONS ***********/
 $btn-primary-text-color: var(--dse-btn-primary-text-color, $white) !default;
 $btn-primary-bg-color: var(--dse-btn-primary-bg-color, $green) !default;
-$btn-primary-bg-hover-color: var(--dse-btn-primary-bg-hover-color, $green-light) !default;
+$btn-primary-bg-hover-color: var(
+  --dse-btn-primary-bg-hover-color,
+  $green-light
+) !default;
 
 /*********** INPUTS ***********/
 $input-color: var(--dse-input-color, $dark) !default;
