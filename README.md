@@ -14,3 +14,7 @@ How system should be structured -> high level architecture
 - Proxy
 - Loading Balancing
 - API Gateway
+
+## Protocols
+
+- TCP & UDP
