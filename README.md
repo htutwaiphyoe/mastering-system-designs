@@ -19,3 +19,4 @@ How system should be structured -> high level architecture
 
 - TCP & UDP
 - HTTP
+- REST
