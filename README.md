@@ -40,3 +40,9 @@ Topic: [Question](./ArchitecturePatterns/Questions)
 - N-Tier
 - Microservices
 - Event-Driven
+
+## Web
+
+Slide: [Web](./Web//Slide.pdf)
+
+Topic: [Question](./Web/Questions)
