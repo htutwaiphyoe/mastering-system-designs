@@ -18,3 +18,4 @@ How system should be structured -> high level architecture
 ## Protocols
 
 - TCP & UDP
+- HTTP
