@@ -56,3 +56,5 @@ Topic: [Question](./Web/Questions)
 Slide: [Scalability](./Scalability/Slide.pdf)
 
 Topic: [Question](./Scalability/Questions)
+
+- Strategies
