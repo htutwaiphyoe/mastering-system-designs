@@ -60,3 +60,7 @@ Topic: [Question](./Scalability/Questions)
 - Strategies
 - Load Balancers
 - Autoscaling
+
+## Storage
+
+Slide: [Storage](./Storage/Slide.pdf)
