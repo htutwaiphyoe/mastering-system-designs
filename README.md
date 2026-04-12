@@ -58,3 +58,5 @@ Slide: [Scalability](./Scalability/Slide.pdf)
 Topic: [Question](./Scalability/Questions)
 
 - Strategies
+- Load Balancers
+- Autoscaling
