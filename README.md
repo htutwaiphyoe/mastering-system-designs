@@ -64,3 +64,7 @@ Topic: [Question](./Scalability/Questions)
 ## Storage
 
 Slide: [Storage](./Storage/Slide.pdf)
+
+Topic: [Question](./Storage/Questions)
+
+- Database
